@@ -18,5 +18,5 @@ post_date: 2020-06-16 13:20:20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Test</p>
+<p>Test content added from GitHub</p>
 <!-- /wp:paragraph -->
