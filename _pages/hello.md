@@ -17,5 +17,5 @@ post_date: 2020-07-29 10:39:20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Resync</p>
+<p>Resync and pull from GitHub</p>
 <!-- /wp:paragraph -->
