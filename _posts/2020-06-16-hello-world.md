@@ -5,7 +5,7 @@ author: paul
 post_excerpt: ""
 layout: post
 permalink: >
-  http://34.76.19.106/index.php/2020/06/16/hello-world/
+  https://cam.dbsprojects.ie/wordpress/index.php/2020/06/16/hello-world/
 published: true
 post_date: 2020-06-16 13:20:20
 ---
