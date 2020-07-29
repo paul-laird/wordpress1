@@ -5,7 +5,7 @@ author: paul
 post_excerpt: ""
 layout: post
 permalink: >
-  http://104.155.92.192/wordpress/index.php/2020/06/09/hello-world/
+  http://34.76.19.106/index.php/2020/06/09/privacy-policy/
 published: true
 post_date: 2020-06-09 12:25:55
 ---

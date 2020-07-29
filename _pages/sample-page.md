@@ -5,7 +5,7 @@ author: paul
 post_excerpt: ""
 layout: page
 permalink: >
-  http://104.155.92.192/wordpress/index.php/sample-page/
+  http://34.76.19.106/index.php/sample-page/
 published: true
 post_date: 2020-06-09 12:25:55
 ---
