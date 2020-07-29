@@ -13,7 +13,7 @@ post_date: 2020-07-29 10:39:20
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p></p>
+<p>This is a new block!!!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
